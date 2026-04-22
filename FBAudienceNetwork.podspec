@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'FBAudienceNetwork'
-  s.version          = '12.6.1'
+  s.version          = '6.15.0'
   s.summary          = 'FBAudienceNetwork SDK for iOS'
   s.description      = 'FBAudienceNetwork SDK for iOS, supports banner, interstitial, rewarded ads.'
   s.homepage         = 'https://github.com/zimub/FBAudienceNetwork'
