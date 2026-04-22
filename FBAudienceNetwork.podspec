@@ -11,5 +11,4 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '13.0'
 
   s.vendored_frameworks = 'FBAudienceNetwork.framework'
-  s.resources = 'FBAudienceNetwork.framework/FBAudienceNetwork.bundle'
 end
